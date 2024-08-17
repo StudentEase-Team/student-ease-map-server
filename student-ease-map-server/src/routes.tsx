@@ -9,6 +9,7 @@ import NastavniBlokUcionice2Prikaz from './pages/nastavni-blok-ucionice-2';
 import NastavniBlokUcionice3Prikaz from './pages/nastavni-blok-ucionice-3';
 import NastavniBlokUcionice4Prikaz from './pages/nastavni-blok-ucionice-4';
 import NastavniBlokUcionice5Prikaz from './pages/nastavni-blok-ucionice-5';
+import NastavniBlokUcionice6Prikaz from './pages/nastavni-blok-ucionice-6';
 
 const AppRoutes: React.FC = () => {
   return (
@@ -22,6 +23,7 @@ const AppRoutes: React.FC = () => {
       <Route path="/nastavniblok/ucionice/3" element={<NastavniBlokUcionice3Prikaz />} />
       <Route path="/nastavniblok/ucionice/4" element={<NastavniBlokUcionice4Prikaz />} />
       <Route path="/nastavniblok/ucionice/5" element={<NastavniBlokUcionice5Prikaz />} />
+      <Route path="/nastavniblok/ucionice/6" element={<NastavniBlokUcionice6Prikaz />} />
     </Routes>
   );
 };

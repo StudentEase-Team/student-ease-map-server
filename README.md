@@ -46,3 +46,10 @@ npm start
 ## Usage
 
 The application will run on http://localhost:3000. This endpoint should be fetched from frontend, in order to display the maps.
+
+If you wish to view the models locally, after runnin the app see the routes in [routes.tsx](student-ease-map-server/src/routes.tsx). For example, if you were to run this in your browser:
+```
+http://localhost:3000/nastavniblok/ucionice/6
+```
+You should be able to see something like this:
+![Animation](/misc/Animation.gif)
