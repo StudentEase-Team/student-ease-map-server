@@ -14,9 +14,9 @@ export function Kampus(props) {
         receiveShadow
         geometry={nodes.Text006.geometry}
         material={materials.TExtWhite}
-        position={[5.215, 1.76, -10.188]}
-        rotation={[0, -1.134, 0]}
-        scale={[1.357, 1.172, 1.807]}
+        position={[-9.295, 2.525, -3.172]}
+        rotation={[0, -1.518, 0]}
+        scale={[1.357, 2.6, 1.807]}
       />
       <mesh
         castShadow
@@ -193,6 +193,104 @@ export function Kampus(props) {
         geometry={nodes.Plane041.geometry}
         material={materials.Blue}
         position={[1.742, -0.105, -1.529]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Text028.geometry}
+        material={materials['TExtWhite.019']}
+        position={[0.826, 1.35, -1.087]}
+        rotation={[0, -1.134, 0]}
+        scale={[0.547, 0.596, 0.699]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane084.geometry}
+        material={materials.Blue}
+        position={[-9.103, 0.048, 0.288]}
+        rotation={[0, 0.384, 0]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane089.geometry}
+        material={materials.Blue}
+        position={[-9.103, 0.048, 0.288]}
+        rotation={[0, 0.384, 0]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane090.geometry}
+        material={materials.Blue}
+        position={[-9.103, 0.048, 0.288]}
+        rotation={[0, 0.384, 0]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane091.geometry}
+        material={materials.Blue}
+        position={[-9.103, 0.048, 0.288]}
+        rotation={[0, 0.384, 0]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane092.geometry}
+        material={materials.Blue}
+        position={[-9.103, 0.048, 0.288]}
+        rotation={[0, 0.384, 0]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane093.geometry}
+        material={materials.Blue}
+        position={[-9.103, 0.048, 0.288]}
+        rotation={[0, 0.384, 0]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane094.geometry}
+        material={materials.Blue}
+        position={[-9.103, 0.048, 0.288]}
+        rotation={[0, 0.384, 0]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane095.geometry}
+        material={materials.Blue}
+        position={[-9.103, 0.048, 0.288]}
+        rotation={[0, 0.384, 0]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane096.geometry}
+        material={materials.Blue}
+        position={[-9.103, 0.048, 0.288]}
+        rotation={[0, 0.384, 0]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane097.geometry}
+        material={materials.Blue}
+        position={[-9.103, 0.048, 0.288]}
+        rotation={[0, 0.384, 0]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Text019.geometry}
+        material={materials['TExtWhite.011']}
+        position={[5.215, 1.76, -10.188]}
+        rotation={[0, -1.134, 0]}
+        scale={[1.357, 1.172, 1.807]}
       />
       <mesh
         castShadow
@@ -391,8 +489,17 @@ export function Kampus(props) {
         castShadow
         receiveShadow
         geometry={nodes.Text008.geometry}
-        material={materials['TExtWhite.003']}
-        position={[12.38, 1.78, -12.454]}
+        material={materials.BlackText}
+        position={[12.168, 1.78, -13.28]}
+        rotation={[0, -1.134, 0]}
+        scale={[0.977, 0.843, 1.3]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Text029.geometry}
+        material={materials.BlackText}
+        position={[11.761, 1.78, -11.485]}
         rotation={[0, -1.134, 0]}
         scale={[0.977, 0.843, 1.3]}
       />
@@ -408,7 +515,7 @@ export function Kampus(props) {
         castShadow
         receiveShadow
         geometry={nodes.Text011.geometry}
-        material={materials['TExtWhite.006']}
+        material={materials.BlackText}
         position={[-8.798, 1.49, -15.173]}
         rotation={[0, 0.401, 0]}
         scale={[0.8, 1.172, 1]}
@@ -450,7 +557,7 @@ export function Kampus(props) {
         receiveShadow
         geometry={nodes.Plane060.geometry}
         material={materials.Path}
-        position={[-5.428, 0.1, 1.493]}
+        position={[-9.741, 0.1, -8.093]}
         rotation={[0, 0.438, 0]}
       />
       <mesh
@@ -648,14 +755,6 @@ export function Kampus(props) {
       <mesh
         castShadow
         receiveShadow
-        geometry={nodes.Plane084.geometry}
-        material={materials['Path.025']}
-        position={[-1.998, 0.1, -1.212]}
-        rotation={[-Math.PI, 1.133, -Math.PI]}
-      />
-      <mesh
-        castShadow
-        receiveShadow
         geometry={nodes.Plane085.geometry}
         material={materials['Path.026']}
         position={[-4.627, 0.001, -23.614]}
@@ -688,26 +787,19 @@ export function Kampus(props) {
       <mesh
         castShadow
         receiveShadow
-        geometry={nodes.Text.geometry}
-        material={materials.BlackText}
-        position={[-3.77, 0.2, -16.668]}
-        rotation={[0, 0.605, 0]}
-      />
-      <mesh
-        castShadow
-        receiveShadow
         geometry={nodes.Text001.geometry}
         material={materials['BlackText.001']}
-        position={[-2.572, 0.201, -9.797]}
-        rotation={[0, -1.131, 0]}
+        position={[-3.97, 0.138, -13.289]}
+        rotation={[0, -1.143, 0]}
       />
       <mesh
         castShadow
         receiveShadow
         geometry={nodes.Text002.geometry}
         material={materials['BlackText.002']}
-        position={[3.649, 0.2, -3.212]}
-        rotation={[0, 0.451, 0]}
+        position={[9.426, 0.173, -6.035]}
+        rotation={[0, 0.442, 0]}
+        scale={[0.78, 1, 0.7]}
       />
       <mesh
         castShadow
@@ -724,7 +816,7 @@ export function Kampus(props) {
         geometry={nodes.Text004.geometry}
         material={materials['BlackText.004']}
         position={[3.644, 0.2, 2.171]}
-        rotation={[0, 0.451, 0]}
+        rotation={[0, 0.433, 0]}
         scale={0.727}
       />
       <mesh
@@ -732,16 +824,58 @@ export function Kampus(props) {
         receiveShadow
         geometry={nodes.Text005.geometry}
         material={materials['BlackText.006']}
-        position={[12.093, 0.2, -18.311]}
+        position={[12.569, 0.204, -17.502]}
         rotation={[0, -1.131, 0]}
+        scale={[0.81, 1, 0.74]}
       />
       <mesh
         castShadow
         receiveShadow
         geometry={nodes.Text013.geometry}
         material={materials['BlackText.007']}
-        position={[-11.76, 0.2, -4.869]}
+        position={[-11.561, 0.207, -4.631]}
         rotation={[0, 0.944, 0]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Circle002.geometry}
+        material={materials['Path.030']}
+        position={[-5.814, 0.01, 0.887]}
+        scale={0.597}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Circle003.geometry}
+        material={materials['Path.031']}
+        position={[-5.763, 0.01, 0.752]}
+        scale={0.597}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane098.geometry}
+        material={materials['Path.032']}
+        position={[-5.428, 0.1, 1.493]}
+        rotation={[0, 0.438, 0]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Text026.geometry}
+        material={materials['BlackText.008']}
+        position={[-4.03, 0.173, 0.197]}
+        rotation={[0, 0.442, 0]}
+        scale={[0.78, 1, 0.7]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Text027.geometry}
+        material={materials['BlackText.009']}
+        position={[1.501, 0.138, -0.978]}
+        rotation={[0, -1.143, 0]}
       />
       <mesh
         castShadow
@@ -900,7 +1034,7 @@ export function Kampus(props) {
         castShadow
         receiveShadow
         geometry={nodes.Text009.geometry}
-        material={materials['TExtWhite.004']}
+        material={materials.BlackText}
         position={[4.299, 1.8, -16.558]}
         rotation={[0, 0.401, 0]}
         scale={[1.2, 1.172, 1.7]}
@@ -909,9 +1043,9 @@ export function Kampus(props) {
         castShadow
         receiveShadow
         geometry={nodes.Text010.geometry}
-        material={materials['TExtWhite.005']}
-        position={[2.853, 1.8, -17.755]}
-        rotation={[0, 0.401, 0]}
+        material={materials.BlackText}
+        position={[2.632, 1.827, -18.026]}
+        rotation={[0, 0.332, 0]}
         scale={[0.8, 1.172, 1]}
       />
       <mesh
@@ -929,6 +1063,246 @@ export function Kampus(props) {
         material={materials.GroundColr}
         position={[0, 0, -20]}
         scale={[21.7, 1, 10]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane099.geometry}
+        material={materials.VPS}
+        position={[4.065, 0.065, -0.008]}
+        rotation={[0, 0.419, 0]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane100.geometry}
+        material={materials.VPS}
+        position={[4.065, 0.065, -0.008]}
+        rotation={[0, 0.419, 0]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Text020.geometry}
+        material={materials.BlackText}
+        position={[4.462, 1.14, -0.973]}
+        rotation={[0, -1.134, 0]}
+        scale={[0.547, 0.596, 0.699]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane105.geometry}
+        material={materials.SDMaterial}
+        position={[-1.102, -0.002, -3.241]}
+        rotation={[0, 0.436, 0]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane106.geometry}
+        material={materials.SDMaterial}
+        position={[-2.154, -0.002, -5.322]}
+        rotation={[-Math.PI, 1.187, -Math.PI]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane108.geometry}
+        material={materials.SDMaterial}
+        position={[-3.334, -0.002, -2.227]}
+        rotation={[0, 0.436, 0]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane107.geometry}
+        material={materials.SDMaterial}
+        position={[-0.557, -0.002, -1.895]}
+        rotation={[-Math.PI, 1.187, -Math.PI]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Text021.geometry}
+        material={materials['TExtWhite.014']}
+        position={[-1.514, 1.15, -5.282]}
+        rotation={[0, -1.134, 0]}
+        scale={[0.547, 0.596, 0.699]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane101.geometry}
+        material={materials.InkognitoMaterijal}
+        position={[-1.843, 0.065, 2.855]}
+        rotation={[0, 0.611, 0]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane102.geometry}
+        material={materials.InkognitoMaterijal}
+        position={[-0.821, 0.065, 1.807]}
+        rotation={[0, -0.925, 0]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane103.geometry}
+        material={materials.InkognitoMaterijal}
+        position={[-0.547, 0.065, 0.77]}
+        rotation={[Math.PI, -1.414, Math.PI]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane104.geometry}
+        material={materials.InkognitoMaterijal}
+        position={[-2.467, 0.065, 1.395]}
+        rotation={[0, 0.035, 0]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane109.geometry}
+        material={materials.SDMaterial}
+        position={[-7.304, -0.101, -5.743]}
+        rotation={[0, 0.436, 0]}
+        scale={[0.808, 1, 0.777]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane110.geometry}
+        material={materials.SDMaterial}
+        position={[-4.897, -0.101, -4.968]}
+        rotation={[-Math.PI, 1.187, -Math.PI]}
+        scale={[0.772, 1, 0.807]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane111.geometry}
+        material={materials.SDMaterial}
+        position={[-5.864, -0.024, -7.843]}
+        rotation={[-Math.PI, 1.187, -Math.PI]}
+        scale={[0.772, 1, 0.807]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane112.geometry}
+        material={materials.SDMaterial}
+        position={[-5.411, -0.101, -6.506]}
+        rotation={[0, 0.436, 0]}
+        scale={[0.808, 1, 0.777]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Text022.geometry}
+        material={materials['TExtWhite.015']}
+        position={[-7.339, 1.15, -6.924]}
+        rotation={[0, -1.134, 0]}
+        scale={[0.5, 0.596, 0.65]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane113.geometry}
+        material={materials.InkognitoMaterijal}
+        position={[-1.457, -0.002, -11.831]}
+        rotation={[0, 0.436, 0]}
+        scale={0.684}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane114.geometry}
+        material={materials.InkognitoMaterijal}
+        position={[0.441, -0.002, -11.604]}
+        rotation={[-Math.PI, 1.187, -Math.PI]}
+        scale={0.684}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane115.geometry}
+        material={materials.InkognitoMaterijal}
+        position={[-0.65, -0.002, -13.946]}
+        rotation={[-Math.PI, 1.187, -Math.PI]}
+        scale={0.684}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane116.geometry}
+        material={materials.InkognitoMaterijal}
+        position={[0.069, -0.002, -12.524]}
+        rotation={[0, 0.436, 0]}
+        scale={0.684}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Text025.geometry}
+        material={materials.BlackText}
+        position={[-1.388, 0.78, -13.489]}
+        rotation={[0, 0.463, 0]}
+        scale={[0.547, 0.596, 0.699]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane117.geometry}
+        material={materials.ZZZSMaterial}
+        position={[-2.737, 0.107, -7.444]}
+        rotation={[0, 0.436, 0]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane118.geometry}
+        material={materials.MenzaMaterial}
+        position={[-5.311, 0.107, -9.304]}
+        rotation={[0, 1.292, 0]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane119.geometry}
+        material={materials.MenzaMaterial}
+        position={[-5.378, 0.1, -9.142]}
+        rotation={[-0.011, 0.999, -0.004]}
+        scale={[0.3, 0.266, 0.328]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Plane120.geometry}
+        material={materials.MenzaMaterial}
+        position={[-4.97, 0.253, -10.389]}
+        rotation={[-0.011, 0.982, -0.004]}
+        scale={[0.3, 0.266, 0.328]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Text023.geometry}
+        material={materials['TExtWhite.016']}
+        position={[-2.794, 1.15, -7.888]}
+        rotation={[0, -1.134, 0]}
+        scale={[0.547, 0.596, 0.699]}
+      />
+      <mesh
+        castShadow
+        receiveShadow
+        geometry={nodes.Text024.geometry}
+        material={materials['TExtWhite.017']}
+        position={[-4.346, 1.2, -9.39]}
+        rotation={[0, -Math.PI / 5, 0]}
+        scale={[0.547, 0.596, 0.699]}
       />
       <mesh
         castShadow
@@ -951,11 +1325,11 @@ export function Kampus(props) {
         receiveShadow
         geometry={nodes.Text012.geometry}
         material={materials['BlackText.005']}
-        position={[-3.77, 0.2, -16.668]}
-        rotation={[0, 0.605, 0]}
+        position={[1.839, 0.188, -20.52]}
+        rotation={[0, 0.419, 0]}
       />
     </group>
   )
 }
 
-useGLTF.preload('/kampus.glb')
+useGLTF.preload('/kampus.glb');
