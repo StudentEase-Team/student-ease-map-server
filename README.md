@@ -1,4 +1,5 @@
 # StudentEase Map Server
+![logolight](https://github.com/user-attachments/assets/9c9bc68e-8c7c-4fb4-8d68-7aa4d2f057c0)
 
 **Note: this app is not meant to be run standalone; it is a helper app for a front-end app.**
 
