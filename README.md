@@ -1,5 +1,7 @@
 # StudentEase Map Server
 
+**Note: this app is not meant to be run standalone; it is a helper app for a front-end app.**
+
 StudentEase Map Server is a react-based web application designed to display 3D objects. The application is built to work seamlessly across different platforms, rendering the 3D object using an iframe on the web and a WebView on mobile devices.
 
 ## Table of Contents
